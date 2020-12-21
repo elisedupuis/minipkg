@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/elisedupuis/minipkg/workflows/R-CMD-check/badge.svg)](https://github.com/elisedupuis/minipkg/actions)
 <!-- badges: end -->
 
 The goal of minipkg is to tell you what time it is.
@@ -27,5 +29,5 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(minipkg)
 what_time(language = "en")
-#> [1] "Hooray! It is 18:12 now!"
+#> [1] "Wow! It is 18:17 now!"
 ```
