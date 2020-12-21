@@ -1,5 +1,5 @@
 Package: minipkg
-Title: Testing R Package Developent
+Title: Testing R Package Development
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Elise",
